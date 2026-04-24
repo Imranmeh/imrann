@@ -1,8 +1,19 @@
 # Kanban Board
 
 ## Setup
+# Clone the repository
+git clone <https://github.com/Imranmeh/imrann>
+
+# Navigate into the project folder
+cd imrann-main/imrann-main/kanban-board
+
+# Install dependencies
 npm install
+
+# Start the development server
 npm run dev
+
+After running the above commands, open the URL shown in the terminal (usually http://localhost:5173/) in your browser.
 
 ## Features
 - Drag and drop tasks
